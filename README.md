@@ -1,0 +1,1 @@
+SelfMade algorithms dictionary

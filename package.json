@@ -1,0 +1,13 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest - o"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "jest": "^29.5.0",
+    "typescript": "^5.1.3"
+  }
+}
